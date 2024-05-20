@@ -1,0 +1,23 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.mood{
+    height: 100px;
+    width: 500px;
+    background-color: none;
+    display: flex;
+    margin-top: 100px;
+}
+
+.going_for_exam{
+    margin: 20px;
+}
+.good{
+    margin: 20px;
+}
+.bad{
+    margin: 20px;
+}
